@@ -67,12 +67,6 @@ O resultado e: 5.000
 Deseja realizar um novo calculo? (S- sim / N- nao)
 ```
 
-## Observações
-
-- O código está modularizado e segue boas práticas para projetos acadêmicos.
-- Entradas inválidas são tratadas e o usuário é orientado a tentar novamente.
-- O projeto pode ser expandido facilmente para incluir novas operações.
-
 ---
 
 **Desenvolvido por:** Felipe  
